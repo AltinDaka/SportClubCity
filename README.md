@@ -1,1 +1,2 @@
 # SportClubCity
+This repository contains the SQL code for creating and managing a database system for a sports club with multiple departments, teams, managers, players, sponsors, and coaches. It is designed to track all the essential data related to sports teams and their administration, allowing for efficient data manipulation and retrieval. The database is structured to include tables for councils, departments, managers, sponsors, teams, coaches, and players across different sports such as football, basketball, and volleyball.
